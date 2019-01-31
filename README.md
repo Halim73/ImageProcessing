@@ -3,4 +3,4 @@ This is a Cuda Based PGM image manipulator that includes Edge detection and cont
 To test on a linux machine simply give permission to execute to the .sh file with the input pictures and output picture file. 
 To run 
   run makefile
-  ./project -(commmand) -[OPTIONAL COMMANDS] inputPicture.ascii.pgm outputPicture.ascii.pgm
+  ./project -(command) -[OPTIONAL COMMANDS] inputPicture.ascii.pgm outputPicture.ascii.pgm
