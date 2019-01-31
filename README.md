@@ -4,7 +4,9 @@ To test on a linux machine simply give permission to execute to the .sh file wit
 
 
 To run 
+
   run makefile
+  
   ./project -(command) -[OPTIONAL COMMANDS] inputPicture.ascii.pgm outputPicture.ascii.pgm
 
 
